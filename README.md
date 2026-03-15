@@ -1,16 +1,25 @@
-# Weather Analyzer Project
+# ML Learning Journey 🚀
 **By: Eiman Ajmal**
 
-## Project Description
-Analyzed Karachi Weekly Weather
+## Projects
 
-## What I Learned
-- Data analysis from Numpy
-- Graphs from Matplotlib
-- Temperature and humidity visualization
+### 1. Python Basics
+- Variables, Functions, Loops
+- Grade Calculator
+
+### 2. Weather Analyzer  
+- Karachi weather analysis
+- Temperature & humidity graphs
+
+### 3. Titanic Analysis
+- Real world dataset
+- Survival rate analysis
 
 ## Tools Used
-- Python
-- NumPy
-- Matplotlib
-- Jupyter Notebook
+- Python, NumPy, Pandas
+- Matplotlib, Jupyter
+- Git & GitHub
+
+## Progress
+- Week 1: ✅ Complete
+- Week 2: ⏳ Coming Soon
